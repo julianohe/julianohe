@@ -6,7 +6,7 @@
 
 
 ### Studying in this moment:
-
+<div>
   <img align="center" alt="julianohe-Dio-Java-Bas-co" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="julianohe-Dio-Java-Bas-co" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
     <img align="center" alt="julianohe-Dio-Java-Bas-co" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
