@@ -15,7 +15,7 @@
 </div>
 
 
-#### :chart_with_upwards_trend: evoluindo atuamente:
+#### :chart_with_upwards_trend: Evoluindo atuamente:
 
 :diamond_shape_with_a_dot_inside: [Banco de Dados](https://cursos.alura.com.br/course/mysql-manipule-dados-com-sql)
 
