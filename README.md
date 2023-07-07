@@ -5,13 +5,34 @@
 
 
 
-### Studying in this moment:
+### Skill at the moment:
 <div>
   <img align="center" alt="julianohe-Dio-Java-Bas-co" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="julianohe-Dio-Java-Bas-co" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
     <img align="center" alt="julianohe-Dio-Java-Bas-co" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 
   <img align="center" alt="julianohe-Dio-Java-Bas-co" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  .
-
 </div>
+
+
+#### :chart_with_upwards_trend: evoluindo atuamente 
+
+:diamond_shape_with_a_dot_inside: Banco de Dados
+
+:diamond_shape_with_a_dot_inside: API ABDC
+
+
+
+#### :closed_book:	Trajetória de livro lidos:
+
+:diamond_shape_with_a_dot_inside: SCRUM - A arte de fazer o dobro do trabalho na metade do tempo
+
+:diamond_shape_with_a_dot_inside: SCRUM - Guia Prático
+
+:diamond_shape_with_a_dot_inside: Codigo Limpo - Habilidade Práticas do Agile Software
+
+:diamond_shape_with_a_dot_inside: Desing Patterns - elements of Reusable Object-Oriented Software
+
+
+
+
