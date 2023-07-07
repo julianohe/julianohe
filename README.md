@@ -15,7 +15,7 @@
 </div>
 
 
-#### :chart_with_upwards_trend: Evoluindo atuamente:
+#### :chart_with_upwards_trend: Dev Progress:
 
 :diamond_shape_with_a_dot_inside: [Banco de Dados](https://cursos.alura.com.br/course/mysql-manipule-dados-com-sql)
 
@@ -23,7 +23,7 @@
 
 
 
-#### :closed_book:	Trajetória de livro lidos:
+#### :closed_book: Trajectory of books read:
 
 :diamond_shape_with_a_dot_inside: [SCRUM - A arte de fazer o dobro do trabalho na metade do tempo](https://www.amazon.com.br/SCRUM-fazer-dobro-trabalho-metade/dp/8543107164/ref=pd_bxgy_img_sccl_1/139-3267180-7376957?pd_rd_w=nn4ZZ&content-id=amzn1.sym.758f3509-df88-4265-806c-565a738dc05d&pf_rd_p=758f3509-df88-4265-806c-565a738dc05d&pf_rd_r=QX7W6ZD1BT3C7W1ZGCQ4&pd_rd_wg=ZVD6c&pd_rd_r=9d807e7f-b930-41fc-ba54-a537bd812111&pd_rd_i=8543107164&psc=1)
 
