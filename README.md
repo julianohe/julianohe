@@ -8,7 +8,7 @@
 #### :triangular_flag_on_post: Skill at the moment:
 <div>
   <img align="center" alt="julianohe-Dio-Java-Bas-co" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="julianohe-Dio-Java-Bas-co" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="julianohe-Dio-Java-Bas-co" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
     <img align="center" alt="julianohe-Dio-Java-Bas-co" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 
   <img align="center" alt="julianohe-Dio-Java-Bas-co" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
